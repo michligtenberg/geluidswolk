@@ -1,5 +1,5 @@
 # geluidswolk
 soundcloud clone project for school
-img src="geluidswolk_logo.png"
+![Alt text](pics/geluidswolk_logo.png?raw=true "Geluidswolk Logo")
 @coldijkx & @michligtenberg
 
